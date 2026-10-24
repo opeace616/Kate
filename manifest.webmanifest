@@ -3,7 +3,7 @@
   "name": "凱特的健身手帳",
   "short_name": "凱特",
   "lang": "zh-Hant",
-  "description": "器械與徒手菜單、重訓、有氧課程與身體變化紀錄。",
+  "description": "每天的運動、晨重與飲食紀錄，粗估運動消耗與飲食攝取熱量。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
